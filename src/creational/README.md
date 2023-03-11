@@ -22,6 +22,9 @@ Creates an instance of several derived classes
 ### **Object Pool**
 Avoid expensive acquisition and release of resources by recycling objects that are no longer in use
 
+Object pooling can offer a significant performance boost; it is most effective in situations where the cost of initializing 
+a class instance is high, the rate of instantiation of a class is high, and the number of instantiations in use at any one time is low.
+
 ### **Prototype**
 A fully initialized instance to be copied or cloned
 
