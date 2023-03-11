@@ -1,4 +1,4 @@
-package creational.demo.objpooling;
+package creational.demo.pooling;
 
 import java.util.Enumeration;
 import java.util.Hashtable;
