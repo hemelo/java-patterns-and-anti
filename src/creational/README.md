@@ -30,3 +30,10 @@ A fully initialized instance to be copied or cloned
 
 ### **Singleton**
 A class of which only a single instance can exist
+
+---
+
+Quick Notes:
+
+- This is a personal repo with study purposes
+- Some code might be found on web
